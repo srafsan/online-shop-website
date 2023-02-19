@@ -31,6 +31,27 @@ const SideBar = () => {
                         <li>
                             <a>Explore</a>
                         </li>
+                        <li>
+                            <a>Saved</a>
+                        </li>
+                        <li>
+                            <a>Cart</a>
+                        </li>
+                        <li>
+                            <a>Selling</a>
+                        </li>
+                        <li>
+                            <a>Profile</a>
+                        </li>
+                        <li>
+                            <a>History</a>
+                        </li>
+                        <li>
+                            <a>Contact Us</a>
+                        </li>
+                        <li>
+                            <a>Setting</a>
+                        </li>
                     </ul>
                 </div>
             </div>
