@@ -1,10 +1,8 @@
 import React from "react";
-import NavBar from "../NavBar/NavBar";
 
 const SideBar = () => {
     return (
-        <div>
-            <NavBar />
+        <div className="w-1/4">
             <div className="drawer drawer-mobile">
                 <input
                     id="my-drawer-2"
@@ -28,10 +26,10 @@ const SideBar = () => {
                     <ul className="menu p-4 w-80 bg-base-100 text-base-content">
                         {/* Sidebar content here */}
                         <li>
-                            <a>Sidebar Item 1</a>
+                            <a>Home</a>
                         </li>
                         <li>
-                            <a>Sidebar Item 2</a>
+                            <a>Explore</a>
                         </li>
                     </ul>
                 </div>
