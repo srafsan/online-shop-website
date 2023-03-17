@@ -2,7 +2,7 @@ import React from "react";
 
 const SideBar = () => {
     return (
-        <div className="w-1/4">
+        <div className="w-1/4 h-full drop-shadow-2xl mr-5">
             <div className="drawer drawer-mobile">
                 <input
                     id="my-drawer-2"
